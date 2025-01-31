@@ -1,0 +1,3 @@
+para usar el servidor con nrgok en linux se debe poner el mismo puerto a usar tanto en el server como al iniciar el ngrok 
+
+ngrok tcp "puerto"
