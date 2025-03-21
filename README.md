@@ -26,13 +26,13 @@ EnigmaLink-Js es una aplicación desarrollada en JavaScript con Node.js que perm
 ### Iniciar el servidor
 Ejecuta el siguiente comando para levantar el servidor:
 ```bash
-node server.js
+node ./Server-EnimgaLink.js 
 ```
 
 ### Iniciar el cliente
 Ejecuta el cliente para conectarte al servidor:
 ```bash
-node client.js
+node ./Cliente-EnigmaLink.js 
 ```
 
 Asegúrate de configurar la dirección IP y el puerto en el archivo de configuración antes de iniciar la aplicación.
